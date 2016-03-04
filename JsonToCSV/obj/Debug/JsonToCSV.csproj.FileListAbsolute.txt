@@ -7,3 +7,5 @@ c:\users\zhdy7\documents\visual studio 2015\Projects\JsonToCSV\JsonToCSV\obj\Deb
 c:\users\zhdy7\documents\visual studio 2015\Projects\JsonToCSV\JsonToCSV\obj\Debug\JsonToCSV.csproj.GenerateResource.Cache
 c:\users\zhdy7\documents\visual studio 2015\Projects\JsonToCSV\JsonToCSV\obj\Debug\JsonToCSV.exe
 c:\users\zhdy7\documents\visual studio 2015\Projects\JsonToCSV\JsonToCSV\obj\Debug\JsonToCSV.pdb
+C:\Users\zhdy7\Documents\Visual Studio 2015\Projects\JsonToCSV\JsonToCSV\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zhdy7\Documents\Visual Studio 2015\Projects\JsonToCSV\JsonToCSV\bin\Debug\Newtonsoft.Json.xml
